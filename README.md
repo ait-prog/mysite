@@ -1,1 +1,1 @@
-# Alibek Aitbekov - Portfolio Website
+Portfolio Website
